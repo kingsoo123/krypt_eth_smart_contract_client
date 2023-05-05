@@ -70,7 +70,7 @@ const Transactions = () => {
           </h3>
         ) : (
           <h3 className="text-white text-3xl text-center my-2">
-            Connect your to see latest transactions
+            Connect your wallet to see latest transactions
           </h3>
         )}
 
